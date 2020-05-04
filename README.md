@@ -1,5 +1,3 @@
-## About
-
 <div id="about"> 
 
 ## :computer: About
