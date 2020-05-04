@@ -8,15 +8,21 @@ These projects was based on the Rocketseat node course that you can find in this
 
 ## :rocket: Technologies
 This project uses these technologies:
-- [Ionic 3](https://ionicframework.com/)
+- [Node.js](https://nodejs.org/en/)
 </div>
 
 ## :computer: Commands 
 <div id="commands"> 
 
-### :memo: Npm
+### :whale2: Docker
+```docker
+docker run --name mongodb -p 2707:2707 -d mongo
+docker ps -a
+docker start mongodb
 ```
-npm install
-ng serve -o
+
+### :memo: Npm
+```npm
+node server.js
 ```
 </div>
