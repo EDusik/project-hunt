@@ -1,10 +1,8 @@
 <div id="about"> 
 
-##  About
+## :question: About
 These projects was based on the Rocketseat node course that you can find in this link: https://rocketseat.com.br/
 </div>
-
-## Tecnologies
 
 <div id="tecnologies"> 
 
