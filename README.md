@@ -1,6 +1,6 @@
 <div id="about"> 
 
-## :question: About
+## :page_facing_up: About
 These projects was based on the Rocketseat node course that you can find in this link: https://rocketseat.com.br/
 </div>
 
