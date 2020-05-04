@@ -1,6 +1,6 @@
 <div id="about"> 
 
-## :computer: About
+##  About
 These projects was based on the Rocketseat node course that you can find in this link: https://rocketseat.com.br/
 </div>
 
@@ -13,7 +13,7 @@ This project uses these technologies:
 - [Node.js](https://nodejs.org/en/)
 </div>
 
-## Commands 
+## :computer: Commands 
 <div id="commands"> 
 
 ### :whale2: Docker
